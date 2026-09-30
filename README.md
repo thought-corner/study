@@ -14,8 +14,8 @@ Detailed study notes live in the [Wiki](https://github.com/thought-corner/backen
 | Category | Technologies |
 |---|---|
 | [Language](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Language) | Java, Kotlin |
-| [Framework & Library](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Framework-Library) | Spring, Security, OAuth2, Batch, Spring AI, JPA, Querydsl, Coroutine, Reactive Programming |
-| [Database](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Database) | Database, MySQL, Redis, Valkey, Elasticsearch |
+| [Framework & Library](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Framework-Library) | Spring, Spring Security, Spring Security OAuth2, Spring Batch, Spring AI, Spring Data JPA, Querydsl, Coroutine, Reactive Programming |
+| [Database](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Database) | Database, MySQL, Redis, Valkey, Elasticsearch, PostgreSQL |
 | [Messaging](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Messaging) | Kafka |
 | [Network & Protocol](https://github.com/thought-corner/backend-roadmap/wiki/Tech-Network-Protocol) | HTTP, gRPC |
 | [DevOps](https://github.com/thought-corner/backend-roadmap/wiki/Tech-DevOps) | Docker, Kubernetes, CI/CD, Nginx, Monitoring |
